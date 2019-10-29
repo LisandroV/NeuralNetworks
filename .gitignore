@@ -1,6 +1,7 @@
 #my ignore
 *ubyte
 *.gz
+p6-cifar-convolutional/data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
